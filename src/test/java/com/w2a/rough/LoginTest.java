@@ -17,7 +17,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 		
-		//This is abhilasha
+		//This is Egit plugin
 
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
