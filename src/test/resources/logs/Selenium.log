@@ -1,0 +1,22 @@
+10:45:42,768 DEBUG devpinoyLogger:60 - Config file loaded!!!
+10:45:42,773 DEBUG devpinoyLogger:75 - OR file loaded!!!
+10:45:46,146 DEBUG devpinoyLogger:116 - Chrome launched!!!
+10:45:50,933 DEBUG devpinoyLogger:120 - Navigated to : https://www.zoho.com/
+10:45:54,613 DEBUG devpinoyLogger:164 - Typing in the email_CSS entered value as abhilashakh@gmail.com
+10:45:54,741 DEBUG devpinoyLogger:150 - Clicking on the nextBtn_CSS
+10:45:54,934 DEBUG devpinoyLogger:164 - Typing in the password_CSS entered value as Abhi22008
+10:45:55,024 DEBUG devpinoyLogger:150 - Clicking on the signBtn_XPATH
+10:46:06,041 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10:46:06,043 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10:46:06,044 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10:46:06,045 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10:46:06,046 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/abhilashakh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10:46:32,599 DEBUG devpinoyLogger:150 - Clicking on the crmlink_XPATH
+10:46:33,166 DEBUG devpinoyLogger:150 - Clicking on the accountstab_XPATH
+10:46:35,363 DEBUG devpinoyLogger:150 - Clicking on the createaccountsbtn_XPATH
+10:46:38,966 DEBUG devpinoyLogger:164 - Typing in the accountname_XPATH entered value as abc
+10:46:40,490 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+10:46:40,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+10:46:40,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10:46:40,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10:46:40,491 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/abhilashakh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

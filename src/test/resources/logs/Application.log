@@ -1,0 +1,12 @@
+22/02/2021 10:45:42 devpinoyLogger Config file loaded!!!
+22/02/2021 10:45:42 devpinoyLogger OR file loaded!!!
+22/02/2021 10:45:46 devpinoyLogger Chrome launched!!!
+22/02/2021 10:45:50 devpinoyLogger Navigated to : https://www.zoho.com/
+22/02/2021 10:45:54 devpinoyLogger Typing in the email_CSS entered value as abhilashakh@gmail.com
+22/02/2021 10:45:54 devpinoyLogger Clicking on the nextBtn_CSS
+22/02/2021 10:45:54 devpinoyLogger Typing in the password_CSS entered value as Abhi22008
+22/02/2021 10:45:55 devpinoyLogger Clicking on the signBtn_XPATH
+22/02/2021 10:46:32 devpinoyLogger Clicking on the crmlink_XPATH
+22/02/2021 10:46:33 devpinoyLogger Clicking on the accountstab_XPATH
+22/02/2021 10:46:35 devpinoyLogger Clicking on the createaccountsbtn_XPATH
+22/02/2021 10:46:38 devpinoyLogger Typing in the accountname_XPATH entered value as abc
